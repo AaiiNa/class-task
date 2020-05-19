@@ -1,3 +1,3 @@
 # class-task
 
-https://github.com/AaiiNa/class-task.git
+https://aaiina.github.io/class-task/
